@@ -16,6 +16,14 @@
     background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 16'%3E%3Cpath fill='none' stroke='white' stroke-linecap='round' stroke-linejoin='round' stroke-width='2' d='M2 5l6 6 6-6'/%3E%3C/svg%3E");
 }
 
+.px-4.py-2.my-3 p.lead {
+    font-size: 1.1rem;
+    font-weight: 300;
+    letter-spacing: 0.3px;
+    color: #6c757d;
+    margin-top: 0.5rem;
+}
+
 .chart-wrap {
     position: relative;
     height: 280px;
